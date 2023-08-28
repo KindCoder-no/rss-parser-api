@@ -1,0 +1,26 @@
+{
+  "name": "rss-parser-api",
+  "version": "1.0.0",
+  "description": "An easy api to read rss as json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KindCoder-no/rss-parser-api.git"
+  },
+  "keywords": [
+    "RSS"
+  ],
+  "author": "Emre Sanden (KindCoder-no)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KindCoder-no/rss-parser-api/issues"
+  },
+  "homepage": "https://github.com/KindCoder-no/rss-parser-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "rss-parser": "^3.13.0"
+  }
+}
